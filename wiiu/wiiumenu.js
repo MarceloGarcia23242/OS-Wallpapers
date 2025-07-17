@@ -4,7 +4,7 @@ const { exec } = require('child_process');
 const logFilePath = 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpaper_engine\\log.txt';
 
 const apps = {
-    app1: '"placeholder"',
+    app1: '"https://x.com/kensabrush/status/1945528860373913931"',
     app2: '"placeholder"',
     app3: '"placeholder"',
     app4: '"placeholder"',
